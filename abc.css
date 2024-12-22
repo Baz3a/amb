@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: red;
+    text-decoration: dotted;
+    font-style: italic;
+    text-shadow: black 5px 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+}
+h2{
+    padding-left: 100px;
+    font-size: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: underline;
+    text-shadow: black 3px 3px;
+    color: pink;
+}
+p{
+    padding-left: 150px;
+    font-weight: bold;
+    font-size: 50px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    padding-left: 500px;
+    
+}
+body{
+    background: linear-gradient(bisque,lightblue);
+}
+.midou{
+    height: 200px;
+    
+}
+li{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+.li{
+    height: 200px;
+}
